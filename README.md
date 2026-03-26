@@ -1,8 +1,8 @@
-RSA Protocol Project
+RSA Protocol Project -
 
-Discrete Mathematics Course - Final Project
-Author: Ioannis Karantounias
-University Email: 20240177@student.act.edu
+Discrete Mathematics Course - Final Project,
+Author: Ioannis Karantounias,
+University Email: 20240177@student.act.edu,
 Personal Email: jkaradou2006@gmail.com
 
 This program features Encryption and Decryption as well as digital signing using the RSA protocol nad implemented using C++.
